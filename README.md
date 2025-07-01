@@ -1,8 +1,5 @@
 # LLM-Bench
 
-[![CI Status](https://github.com/FluffBaal/baconPancake/workflows/CI/badge.svg)](https://github.com/FluffBaal/baconPancake/actions)
-[![Deploy Status](https://github.com/FluffBaal/baconPancake/workflows/Deploy/badge.svg)](https://github.com/FluffBaal/baconPancake/actions)
-
 A comprehensive benchmarking and prompt quality testing platform for Large Language Models (LLMs). Test your prompts across multiple providers, evaluate response quality, and leverage integrated tools for enhanced AI interactions.
 
 ## 🌐 Live Application
