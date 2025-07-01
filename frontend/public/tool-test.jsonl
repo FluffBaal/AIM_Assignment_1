@@ -1,0 +1,5 @@
+{"id": "t1", "content": "What is the current weather in New York City?", "expected_answer": "Current weather data for New York City", "category": "tool-use", "difficulty": "easy"}
+{"id": "t2", "content": "Search for the latest news about OpenAI's new models", "expected_answer": "Recent news about OpenAI model releases", "category": "tool-use", "difficulty": "easy"}
+{"id": "t3", "content": "What was the closing price of AAPL stock yesterday?", "expected_answer": "Recent Apple stock closing price", "category": "tool-use", "difficulty": "medium"}
+{"id": "t4", "content": "Find information about the 2024 Olympics venue", "expected_answer": "Paris, France is hosting the 2024 Summer Olympics", "category": "tool-use", "difficulty": "easy"}
+{"id": "t5", "content": "What are the current COVID-19 guidelines from the CDC?", "expected_answer": "Current CDC COVID-19 guidelines and recommendations", "category": "tool-use", "difficulty": "medium"}
